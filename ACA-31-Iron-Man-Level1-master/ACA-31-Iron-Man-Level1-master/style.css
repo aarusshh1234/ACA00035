@@ -1,0 +1,11 @@
+body {
+    background:linear-gradient(#052346,lightblue);
+   
+}
+div{
+    font-style:unset;
+    font-weight: bold;
+}
+body h1{
+    font-size: 20px;
+}
